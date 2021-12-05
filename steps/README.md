@@ -11,7 +11,8 @@ Step by step
 	FACEBOOK_APP_ID
 	FACEBOOK_PAGE_ACCESS_TOKEN
 	FACEBOOK_PAGE_SECRET
-7. Deploy Our webhook to Heroku 
+7. npm install
+8. Deploy Our webhook to Heroku 
 
 	
 	
